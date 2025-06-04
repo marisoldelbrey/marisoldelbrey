@@ -1,6 +1,6 @@
 - 👋 Hi, my name is Marisol.
-- 🇵🇷 I'm a Puerto Rican first-generation college graduate majoring in Philosophy and minoring in Business Analytics
-- 👀 I’m interested in analyzing data to solve business problems
+- 🇵🇷 I'm a Puerto Rican first-generation graduate in Philosophy and Business Analytics
+- 👀 I’m interested in analyzing and managing data to solve business problems
 - 🌱 I’m currently a Product Manager for a stealth mode startup application
 - 💞️ I’m looking to collaborate on projects and/or opportunities for a fulltime job
 - 📫 Let's connect... delbreymarisol@gmail.com or https://www.linkedin.com/in/marisoldelbrey/ 
